@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haru0707
 - 👀 I’m interested in LLM and OSS
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JS
 - 📫 How to reach me ...
 - I am Japanese.
 - I don't know much about programming. If you have any strange points or advice, I would appreciate it if you could let me know.
