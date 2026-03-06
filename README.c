@@ -1,18 +1,26 @@
-- 👋 Hi, I’m @haru0707
-- 👀 I’m interested in LLM and OSS
-- 🌱 I’m currently learning JS
-- 📫 You can reach me on Discord. My ID is haru0707kun.
-- I am Japanese.
-- I don't know much about programming. If you have any strange points or advice, I would appreciate it if you could let me know.
-This sentence uses Google Translate and may be strange. 
-- 日本語
-- こんにちは私はプログラミング初心者ですアドバイスなどがあれば教えてください
-- もし機会があればOSSプロジェクトに参加したいと考えています、声をかけていただけると助かります
+# ⚡ Hello, World! I'm haru0707 ⚡
 
-<!---
-haru0707/haru0707 is a ✨ special ✨ repository because its `README.md` (thpais file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=haru0707&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="haru0707's Trophies" />
+  </a>
+</div>
 
-main () {
-   }
+<br>
+
+<div align="center">
+  <a href="https://github.com/haru0707">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=Student+%40+KOSEN+(NIT);LLM+%26+Machine+Learning+Enthusiast;Looking+for+OSS+opportunities!;Let's+build+something+awesome!" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+## 👨‍💻 `whoami`
+
+```bash
+$ cat profile.txt
+> Name: haru0707
+> Role: KOSEN Student 🎓
+> Interests: LLM / AI / Open Source 🤖
+> Status: Ready to code 🚀
