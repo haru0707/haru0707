@@ -1,12 +1,4 @@
-# ⚡ Hello, World! I'm haru0707 ⚡
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haru0707&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="haru0707's Trophies" />
-  </a>
-</div>
-
-<br>
+# Hello, World! I'm haru0707
 
 <div align="center">
   <a href="https://github.com/haru0707">
