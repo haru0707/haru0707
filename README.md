@@ -12,7 +12,7 @@
 
 ```bash
 $ cat profile.txt
-> Name: haru0707
-> Role: KOSEN Student 🎓
-> Interests: LLM / AI / Open Source 🤖
-> Status: Ready to code 🚀
+> Name: haru0707 (haru0707kun)
+> Role: KOSEN Student
+> Interests: LLM / AI / Open Source
+> Status: Ready to code
