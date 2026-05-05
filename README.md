@@ -22,7 +22,7 @@
 $ cat profile.txt
 
 Name      : haru0707 / haru0707kun
-Role      : KOSEN Student Engineer
+Role      : KOSEN Student
 Location  : Japan Kanagawa or Hokkaido
 Focus     : LLM, Machine Learning, AI Apps, Open Source
 Status    : Building, learning, and shipping
