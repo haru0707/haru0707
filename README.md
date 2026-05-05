@@ -27,7 +27,7 @@ Location  : Japan Kanagawa or Hokkaido
 Focus     : LLM, Machine Learning, Open Source
 Status    : Building, learning
 
----
+```
 
 ### Interests
 
