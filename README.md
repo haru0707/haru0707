@@ -25,7 +25,7 @@ Name      : haru0707 / haru0707kun
 Role      : KOSEN Student
 Location  : Japan Kanagawa or Hokkaido
 Focus     : LLM, Machine Learning, Open Source
-Status    : Building, learninf
+Status    : Building, learning
 
 ---
 
