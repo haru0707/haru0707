@@ -65,7 +65,7 @@ Looking for  : OSS and people to build with
 ### Thanks for visiting.
 
 ```txt
-Let's build something useful.
+Let's build something fun.
 ```
 
 </div>
