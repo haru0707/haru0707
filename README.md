@@ -8,7 +8,6 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=haru0707&style=for-the-badge&color=00c853" alt="Profile views" />
 <img src="https://img.shields.io/badge/Student-KOSEN%20%2F%20NIT-00aaff?style=for-the-badge" alt="KOSEN Student" />
 
 </div>
