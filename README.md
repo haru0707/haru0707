@@ -31,7 +31,7 @@ Looking for  :  OSS and people to build with
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,git,linux,docker,aws&theme=dark&perline=8" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,git,linux&theme=dark&perline=8" alt="Tech Stack"/>
 
 </div>
 
