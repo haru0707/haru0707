@@ -1,58 +1,60 @@
 <div align="center">
 
-# Hello, World. I'm haru0707
+# haru0707
 
-<a href="https://github.com/haru0707">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00FF88&center=true&vCenter=true&width=720&lines=KOSEN+Student+Engineer+in+Japan;LLM+%2F+Machine+Learning+Enthusiast;Open+Source+%26+AI+Developer;Always+building%2C+always+learning." alt="Typing SVG" />
-</a>
-
-<br />
-
-<img src="https://img.shields.io/badge/Student-KOSEN%20%2F%20NIT-00aaff?style=for-the-badge" alt="KOSEN Student" />
+KOSEN Student · Japan
 
 </div>
 
----
-
-## About Me
+<!-- ════ About ════ -->
+## About
 
 ```bash
-$ cat profile.txt
+haru0707  /  haru0707kun
 
-Name      : haru0707 / haru0707kun
-Role      : KOSEN Student
-Location  : Japan Kanagawa or Hokkaido
-Focus     : LLM, Machine Learning, Open Source
-Status    : Building, learning
-
+Role       :  KOSEN Student (NIT, Japan)
+Location   :  Kanagawa / Hokkaido, Japan
+Focus      :  LLM · Machine Learning · Open Source
+Status     :  Building, learning, shipping 🚀
 ```
 
-### Interests
-
-<img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
-<img src="https://img.shields.io/badge/Machine%20Learning-0f766e?style=for-the-badge" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github" alt="Open Source" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-
-</div>
-
----
-
+<!-- ════ Now ════ -->
 ## Now
 
 ```txt
-Learning     : LLM / AI engineering / practical ML
-Looking for  : OSS and people to build with
+Learning     :  LLM / AI engineering / practical ML
+Looking for  :  OSS and people to build with
 ```
 
----
+<!-- ════ Stack ════ -->
+## Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,git,linux,docker,aws&theme=dark&perline=8" alt="Tech Stack"/>
+
+</div>
+
+<!-- ════ Stats ════ -->
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=haru0707&show_icons=true&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haru0707&layout=compact&hide_border=true&title_color=00FF88&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+
+</div>
+
+<!-- ════ Connect ════ -->
 ## Connect
 
 <div align="center">
 
 <a href="https://github.com/haru0707">
-  <img src="https://img.shields.io/badge/GitHub-haru0707-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-haru0707-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/haru0707">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 
 </div>
@@ -61,10 +63,6 @@ Looking for  : OSS and people to build with
 
 <div align="center">
 
-### Thanks for visiting.
-
-```txt
-Let's build something fun.
-```
+*Let's build something fun.*
 
 </div>
